@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
     return (
-        <div>che za hyinya blyat</div>
+        <div>About us</div>
     );
 };
 
